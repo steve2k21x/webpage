@@ -11,7 +11,7 @@ Chong Li
 
 #### Project title
 
-Temple University Schools
+Owl Chapter Homepage
 
 ***
 
@@ -19,12 +19,12 @@ Short answers for the below questions suffice. If you want to alter your plan fo
 
 #### What have you done for your project so far?
 
-create a list with all of the schools and create a description for each
+I've made sure that I have all the distribution code from the CS50 course as well as starting to put features on the website 
 
 #### What have you not done for your project yet?
 
-haven't looped the end of the program quite yet and the top 3 majors for each school
+I haven't added any description details on the page yet as well as pictures
 
 #### What problems, if any, have you encountered?
 
-mostly the loop
+I've ran into some bugs mostly syntax because I'm still getting familiar with the languages  
